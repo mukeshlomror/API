@@ -1,0 +1,97 @@
+[
+    {
+        "name":"iphone",
+        "price": 154,
+        "feature": true,
+        "company" : "apple"
+    },
+    {
+        "name":"iphone",
+        "price": 154,
+        "feature": true,
+        "company" : "apple"
+    },
+    {
+        "name":"iphone14",
+        "price": 1154,
+        "feature": true,
+        "company" : "apple"
+    },
+    {
+        "name":"iphone10",
+        "price": 1004,
+        "feature": true,
+        "company" : "apple"
+    },
+    {
+        "name":"watch",
+        "price": 150,
+        "company" : "apple"
+    },
+    {
+        "name":"gallexyPro",
+        "price": 1000,
+        "feature": true,
+        "company" : "samsung"
+    },
+    {
+        "name":"gallexyPro",
+        "price": 1000,
+        "feature": true,
+        "company" : "samsung"
+    },
+    {
+        "name":"gallexyPro",
+        "price": 1000,
+        "feature": true,
+        "company" : "samsung"
+    },
+    {
+        "name":"gallexyPro",
+        "price": 1000,
+        "feature": true,
+        "company" : "samsung"
+    },
+    {
+        "name":"gallexyProMax",
+        "price": 10000,
+        "feature": true,
+        "company" : "samsung"
+    },
+    {
+        "name":"laptop",
+        "price": 1000,
+        "feature": true,
+        "company" : "dell"
+    },
+    {
+        "name":"laptopPro",
+        "price": 100000,
+        "feature": true,
+        "company" : "dell"
+    },
+    {
+        "name":"laptopMax",
+        "price": 1000000,
+        "feature": true,
+        "company" : "dell"
+    },
+    {
+        "name":"laptopKids",
+        "price": 1000,
+        "feature": true,
+        "company" : "dell"
+    },
+    {
+        "name":"laptop1",
+        "price": 1000,
+        "feature": true,
+        "company" : "dell"
+    },
+    {
+        "name":"laptop2",
+        "price": 10000,
+        "feature": true,
+        "company" : "dell"
+    }
+]
